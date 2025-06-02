@@ -122,6 +122,7 @@ HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 holoviews @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d9699cvcyt/croot/holoviews_1720539755521/work
 httpcore @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_fcxiho9nv7/croot/httpcore_1706728465004/work
 httpx @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_cc4egw1482/croot/httpx_1723474826664/work
+huggingface-hub==0.31.2
 hvplot @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_c6l1nubo_c/croot/hvplot_1727775577392/work
 hyperlink @ file:///tmp/build/80754af9/hyperlink_1610130746837/work
 idna @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a12xpo84t2/croot/idna_1714398852854/work
@@ -216,6 +217,7 @@ numba @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_adaw
 numexpr @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/numexpr_1699237935415/work
 numpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a51i_mbs7m/croot/numpy_and_numpy_base_1708638620867/work/dist/numpy-1.26.4-cp312-cp312-macosx_11_0_arm64.whl#sha256=37afb6b734a197702d848df93bd67c10b52f6467d56e518950d84b6b1c949d27
 numpydoc @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_69xghc3i3n/croot/numpydoc_1718279166747/work
+opencv-python==4.11.0.86
 openpyxl @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_96hhik4ygv/croot/openpyxl_1721752931204/work
 opt_einsum==3.4.0
 optree==0.15.0
@@ -261,6 +263,7 @@ pydantic_core @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/
 pydeck @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_df_5iy65um/croot/pydeck_1706194077123/work
 PyDispatcher @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pydispatcher_1699248379667/work
 pydocstyle @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pydocstyle_1699242840130/work
+pydot==4.0.0
 pyerfa @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4b_blcl5tb/croot/pyerfa_1717700766739/work
 pyflakes @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_bbjb40dmuh/croot/pyflakes_1708962969108/work
 Pygments @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pygments_1699238063295/work
@@ -315,6 +318,7 @@ ruamel-yaml-conda @ file:///Users/builder/cbouss/perseverance-python-buildout/cr
 ruamel.yaml @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_35yvtl3p84/croot/ruamel.yaml_1727980165481/work
 ruamel.yaml.clib @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_70l_orv46q/croot/ruamel.yaml.clib_1727769819918/work
 s3fs @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_fa25uuxfjq/croot/s3fs_1724924107705/work
+safetensors==0.5.3
 scikit-image @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_d6j00jzmsp/croot/scikit-image_1726737419383/work
 scikit-learn @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_97o1ht3oty/croot/scikit-learn_1721921878202/work
 scipy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b9t0odioph/croot/scipy_1717521487325/work/dist/scipy-1.13.1-cp312-cp312-macosx_11_0_arm64.whl#sha256=79bc68b8b51505a63d293435b261c75d43ce266b063378b789d9805b3a33fcc0
@@ -347,7 +351,7 @@ SQLAlchemy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_af8vmuwbis/croot/statsmodels_1718381196260/work
 streamlit @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_52t8o6xfs8/croot/streamlit_1724335169234/work
-sympy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_12ufyeicwp/croot/sympy_1724938200081/work
+sympy==1.14.0
 tables @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_b6xsinywwn/croot/pytables_1725380789988/work
 tabulate @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/tabulate_1701807377411/work
 tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
@@ -364,13 +368,17 @@ three-merge @ file:///tmp/build/80754af9/three-merge_1607553261110/work
 tifffile @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/tifffile_1699243525693/work
 tinycss2 @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/tinycss2_1699250325251/work
 tldextract @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_86f1bw02kg/croot/tldextract_1723064389239/work
+tokenizers==0.21.1
 toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 tomli @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/tomli_1699237289925/work
 tomlkit @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/tomlkit_1699238737474/work
 toolz @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/toolz_1699238160466/work
+torch==2.7.0
+torchvision==0.22.0
 tornado @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a4w03z48br/croot/tornado_1718740114858/work
 tqdm @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_24zjwympsr/croot/tqdm_1724853942429/work
 traitlets @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_500m2_1wyk/croot/traitlets_1718227071952/work
+transformers==4.51.3
 truststore @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/truststore_1701805928787/work
 Twisted @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_c4spem5kwe/croot/twisted_1708702820544/work
 typer @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/typer_1699241721720/work
